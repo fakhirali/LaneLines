@@ -1,3 +1,3 @@
 # Lane Detection
 
-* Using motorway video to detect lane lines
+* Using motorway dash-cam video to detect lane lines
